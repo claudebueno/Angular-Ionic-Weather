@@ -9,6 +9,10 @@ Application météo basée sur :
 Webservice : 
 * [OpenWeatherMap](http://openweathermap.org/)
 
+## CAPTURES
+* 25 mars 2017
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 ## HISTORIQUE
 
 ### Version 0.25
