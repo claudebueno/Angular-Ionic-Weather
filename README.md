@@ -1,5 +1,7 @@
 # Angular-Ionic-Weather
 
+> Application météo basée sur Angular et Ionic
+
 ## A PROPOS
 Application météo basée sur :
 * Angular ;
@@ -10,7 +12,7 @@ Webservice :
 * [OpenWeatherMap](http://openweathermap.org/)
 
 ## CAPTURES
-* 25 mars 2017
+* 24 mars 2017 - Version 0.25
 
 ![version 0.25](https://github.com/claudebueno/Angular-Ionic-Weather/blob/master/aiw-0-25.jpg)
 
