@@ -18,6 +18,16 @@ Webservice :
 
 ## HISTORIQUE
 
-### 2017-03-24 - Version 0.25
+Date | Version
+------------ | -------------
+2017-03-24 | 0.25
+ | 
+
+### 2017-03-24
 * création de l'application (saisie de la ville via champs) ;
 
+## TODO LIST
+
+- [x] Créer un readme 
+- [ ]
+- [ ] 
