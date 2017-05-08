@@ -18,13 +18,11 @@ Webservice :
 
 ## HISTORIQUE
 
-Date | Version | Commentaire
-
------------- | -------------
-
+ Date | Version | Commentaire 
+--- | --- | ---
 2017-03-24 | 0.25 | Version avec champs de recherche
+2017-05-08 | 0.30 | Version avec géolocalisation
 
- | 
 
 ### 2017-03-24
 * création de l'application (saisie de la ville via champs) ;
