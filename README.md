@@ -24,11 +24,9 @@ Webservice :
 2017-05-08 | 0.30 | Version avec géolocalisation
 
 
-### 2017-03-24
-* création de l'application (saisie de la ville via champs) ;
-
 ## TODO LIST
 
 - [x] Créer un readme 
-- [ ]
-- [ ] 
+- [ ] Version avec champs de saisie
+- [ ] Version avec géolocalisation
+- [ ] Permettre de sauvegarder une liste de villes favorites
