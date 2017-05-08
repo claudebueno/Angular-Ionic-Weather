@@ -18,9 +18,9 @@ Webservice :
 
 ## HISTORIQUE
 
-Date | Version
+Date | Version | Commentaire
 ------------ | -------------
-2017-03-24 | 0.25
+2017-03-24 | 0.25 | Version avec champs de recherche
  | 
 
 ### 2017-03-24
